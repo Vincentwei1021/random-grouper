@@ -258,18 +258,6 @@ export default function RandomGrouper() {
         </p>
       </header>
 
-      {/* Ad placeholder */}
-      <div className="mb-6 no-print">
-        <ins
-          className="adsbygoogle block"
-          data-ad-client="ca-pub-5881105388002876"
-          data-ad-slot="auto"
-          data-ad-format="auto"
-          data-full-width-responsive="true"
-          style={{ minHeight: 90 }}
-        />
-      </div>
-
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
         {/* Left Panel: Input & Options */}
         <div className="lg:col-span-5 space-y-5 no-print">

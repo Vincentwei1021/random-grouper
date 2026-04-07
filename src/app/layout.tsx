@@ -61,11 +61,6 @@ export default function RootLayout({
     <html lang="zh-CN" className={`${notoSansSC.variable} h-full antialiased`}>
       <head>
         <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5881105388002876"
-          crossOrigin="anonymous"
-        />
-        <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
