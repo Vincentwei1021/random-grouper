@@ -14,13 +14,13 @@ export default function Home() {
           <span className="hidden sm:inline">&middot;</span>
           <Link
             href="/privacy"
-            className="hover:text-violet-primary transition-colors"
+            className="hover:text-violet-primary transition-colors py-3 min-h-[44px] inline-flex items-center"
           >
             隐私政策
           </Link>
           <Link
             href="/terms"
-            className="hover:text-violet-primary transition-colors"
+            className="hover:text-violet-primary transition-colors py-3 min-h-[44px] inline-flex items-center"
           >
             服务条款
           </Link>
